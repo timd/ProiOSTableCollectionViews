@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D295999-1F38-4604-B212-9BD6E8ACC6C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>971650A379C82FF3029BFB2C1851FE037E018A9F</key>
+		<string>github.com:timd/ProiOSTableCollectionViews.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ch17/Swift/startingPoint/SwiftClock/SwiftClock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>971650A379C82FF3029BFB2C1851FE037E018A9F</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:timd/ProiOSTableCollectionViews.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>971650A379C82FF3029BFB2C1851FE037E018A9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>971650A379C82FF3029BFB2C1851FE037E018A9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bookCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
