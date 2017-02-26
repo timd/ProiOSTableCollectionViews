@@ -2,6 +2,8 @@
 
 Code repo for Pro iOS Table &amp; Collection Views, 2ed
 
+## For Swift 3, please see [https://github.com/timd/ProIosTableCollectionViewsSwift3](https://github.com/timd/ProIosTableCollectionViewsSwift3)
+
 ![Book image](https://github.com/timd/ProiOSTableCollectionViews/blob/master/9781484212431.png)
 
 ISBN13: 978-1-484212-43-1
